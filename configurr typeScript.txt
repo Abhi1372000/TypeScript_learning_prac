@@ -1,0 +1,4 @@
+For Ts compiler we have to run tsc --init in terminal
+strict": true,                           /* Enable all strict type-checking options. */
+"noEmitOnError": true,
+"noImplicitAny": true,   /* Raise error on expressions and declarations with an implied 'any' type. */

@@ -1,0 +1,7 @@
+JavaScript      TypeScript
+number          any
+string          unknown
+boolean         never
+null            enum
+undefined       tuple
+object             
